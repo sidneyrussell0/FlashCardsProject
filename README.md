@@ -1,4 +1,4 @@
-# Flash Cards Project
+# Flashcards Project
 ## About
 This is a Codecademy Project designed to show my skills of Redux and the Redux Toolkit to finish the build of a flashcard quiz app.
 
